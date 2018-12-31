@@ -1,0 +1,102 @@
+
+|====================================================================|
+|                                                                    |
+|                        The LaZagne Project                         |
+|                                                                    |
+|                          ! BANG BANG !                             |
+|                                                                    |
+|====================================================================|
+		
+########## User: Administrator ##########
+
+------------------- Chrome passwords -----------------
+
+Password found !!!
+URL: https://mail.sina.com.cn/register/regmail.php
+Login: zsy519334736
+Password: mi6007
+
+Password found !!!
+URL: https://me.bdp.cn/register.html
+Login: 418976
+Password: mi6007rs
+
+Password found !!!
+URL: https://me.bdp.cn/login.html
+Login: 17713608729
+Password: mi6007rs
+
+Password found !!!
+URL: https://www.zhihu.com/signin
+u'Login: \u82b1\u4f53'
+Password: mi6007
+
+Password found !!!
+URL: https://www.zhihu.com/people/tian-yi-miao-26/activities
+Login: 17713608729
+Password: mi6007
+
+Password found !!!
+URL: http://my.cnki.net/ThirdLogin/login/Mobilebind
+Login: 17713608729
+Password: mi6007
+
+Password found !!!
+URL: http://jiaowu.swjtu.edu.cn/servlet/UserLoginSQLAction
+Login: 2015111604
+Password: mi6007
+
+Password found !!!
+URL: http://202.115.67.4/servlet/UserLoginSQLAction
+Login: 2015111604
+Password: mi6007
+
+
+
+
+########## User: SYSTEM ##########
+
+------------------- Wifi passwords -----------------
+
+Password found !!!
+Authentication: WPA2PSK
+Protected: true
+SSID: LHDN
+Password: False
+
+Password found !!!
+Authentication: WPA2PSK
+Protected: true
+SSID: ChinaNet-w7ip
+Password: False
+
+Password found !!!
+Authentication: WPA2PSK
+Protected: true
+SSID: Sci-Center10414
+Password: False
+
+Password found !!!
+Authentication: WPA2PSK
+Protected: true
+SSID: ZKM
+Password: False
+
+Password found !!!
+Authentication: WPA2PSK
+Protected: true
+SSID: TP-LINK_1A8A
+Password: False
+
+Password found !!!
+Authentication: WPA2PSK
+Protected: true
+SSID: USER-20170513LV-25670
+Password: False
+
+
+[+] 14 passwords have been found.
+For more information launch it again with the -v option
+
+
+elapsed time = 0.355000019073
